@@ -21,9 +21,9 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 ---
 #### 开发语言 Languages
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lldscc&layout=compact"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llds66&layout=compact"/>
 
-<img align="right" width="450" style="margin-top:5px"  src="https://github-readme-stats.vercel.app/api?username=lldscc"/>
+<img align="right" width="450" style="margin-top:5px"  src="https://github-readme-stats.vercel.app/api?username=llds66"/>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
