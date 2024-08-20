@@ -26,12 +26,14 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 <img align="right" width="450" style="margin-top:5px"  src="https://github-readme-stats.vercel.app/api?username=llds66"/>
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/202408201145065.png" alt="Nuxt" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/html.png" alt="html" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/css.png" alt="css" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/typescript.png" alt="typescript" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/vue.png" alt="vue" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/node.png" alt="node" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/202408201151638.png" alt="nuxt" /></code>
+
 
 ---
 + 个人网站：[https://llds.cc](https://llds.cc/)
