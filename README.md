@@ -23,7 +23,7 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llds66&layout=compact"/>
 
-<img align="right" width="450" style="margin-top:5px"  src="https://github-readme-stats.vercel.app/api?username=llds66&show_icons=true&layout=compact&theme=tokyonight"/>
+<img align="right" width="450" style="margin-top:5px"  src="https://github-readme-stats.vercel.app/api?username=llds66&show_icons=true&layout=compact"/>
 
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/html.png" alt="html" /></code>
