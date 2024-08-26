@@ -12,7 +12,7 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 <strong>Growing through the stumbles💪 !</strong>
 ---
 #### 个人介绍
-你们好，我是一名20岁的中国学生，正在学习web前端技术，例如：Html、Css、JavaScript、Node.js、Vue.js等.希望能结交友好善良的人，共同进步！
+你们好，我是一名20岁的中国学生，正在学习web前端技术，例如：Html、Css、JavaScript、Node.js、Vue、Nuxt等.希望能结交友好善良的人，共同进步！
 + ​性格：慢热型🧒
 + 感兴趣的：网页、动效设计、3D、剪辑
 + 喜欢的的水果：苹果🍎
