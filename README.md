@@ -38,6 +38,6 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 ---
 + 个人网站：[https://llds.cc](https://llds.cc/)
 
-+ 博客网站：[https://llds.cc/blog](https://llds.cc/blog/)
++ 博客网站：[https://docs.llds.cc/](https://docs.llds.cc/)
 
 ---
