@@ -28,7 +28,7 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 #### know me:
 <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/>  个人网站：[llds.cc](https://llds.cc/) 
 <br>
-<img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/> 博客网站：[docs.llds.cc](https://docs.llds.cc/)
+<img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/> 学习记录：[docs.llds.cc](https://docs.llds.cc/)
 
 
 ---
