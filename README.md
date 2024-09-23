@@ -1,13 +1,17 @@
 ## Hello👋, I'm [llds](https://www.llds.cc).
 
 Hello, I am a 20-year-old Chinese student, learning web front-end technology, such as: Html, Css, JavaScript, Node.js, Vue.js and so on. Hope to make friendl and kind people and make progress together!
-​
-+ Personality: Slow heating type male🧒
-+ Interested in: Web, dynamic design, 3D, editing
-+ Favorite fruit: Apple🍎
-+ Favorite vegetable: Cabbage🥬
 
-<img src="https://api.iconify.design/svg-spinners:3-dots-bounce.svg?color=%23737373"/>*Growing through the stumbles*
+​<br>
+<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Personality: Slow heating type male🧒
+<br>
+<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Interested in: Web, dynamic design, 3D, editing
+<br>
+<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Favorite fruit: Apple🍎
+<br>
+<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Favorite vegetable: Cabbage🥬
+<br>
+<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>*Growing through the stumbles*
 
 
 #### Tech stack:
@@ -21,9 +25,9 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 <code><img height="20" src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nest" /></code>
 
 #### know me:
-<img src="https://api.iconify.design/svg-spinners:pulse-multiple.svg?color=%23737373"/>  个人网站：[https://llds.cc](https://llds.cc/)
+<img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/>  个人网站：[llds.cc](https://llds.cc/) 
 <br>
-<img src="https://api.iconify.design/svg-spinners:pulse-multiple.svg?color=%23737373"/> 博客网站：[https://docs.llds.cc/](https://docs.llds.cc/)
+<img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/> 博客网站：[docs.llds.cc](https://docs.llds.cc/)
 
 
 ---
