@@ -10,8 +10,9 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 <img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Favorite fruit: Apple🍎
 <br>
 <img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Favorite vegetable: Cabbage🥬
-<br>
-<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>*Growing through the stumbles*
+
+
+<img src="https://api.iconify.design/svg-spinners:3-dots-bounce.svg?color=%23737373"/>*Growing through the stumbles*
 
 
 #### Tech stack:
