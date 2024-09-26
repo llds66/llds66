@@ -33,6 +33,6 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 
 ---
 <div style="display:flex;">
-  <img  width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llds66&layout=compact"/>
-  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=llds66&show_icons=true&layout=compact"/>
+  <img  width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llds66&layout=compact&bg_color=30,184e68,57ca85&title_color=fff&text_color=fff"/>
+  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=llds66&show_icons=true&layout=compact&bg_color=30,184e68,57ca85&title_color=fff&text_color=fff"/>
 </div>
