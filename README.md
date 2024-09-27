@@ -25,7 +25,7 @@ Hello, I am a 20-year-old Chinese student, learning web front-end technology, su
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/202408201151638.png" alt="nuxt" /></code>
 <code><img height="20" src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nest" /></code>
 
-#### know me:
+#### Know me:
 <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/> Personal Site：[llds.cc](https://llds.cc/) 
 <br>
 <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/> Learning Document：[docs.llds.cc](https://docs.llds.cc/)
