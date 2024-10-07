@@ -3,11 +3,9 @@
 Hello, I am a 20-year-old Chinese student, learning web front-end technology, such as: Html, Css, JavaScript, Node.js, Vue.js and so on. Hope to make friendl and kind people and make progress together!
 
 <img src="https://api.iconify.design/svg-spinners:3-dots-bounce.svg?color=%23737373"/>*「 The wind brings the seeds of stories, and time makes them sprout 」*
-
 ​<br>
-<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Personality: Slow heating type male🧒
-<br>
-<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Interested in: Web, dynamic design, 3D, editing
+
+<img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Interested in: Web、Design、3D
 <br>
 <img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%23737373"/>Favorite fruit: Apple🍎
 <br>
