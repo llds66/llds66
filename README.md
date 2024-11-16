@@ -15,15 +15,19 @@ Hello, I am a 20-year-old student, learning web front-end technology, such as: H
 
 
 
-#### Tech stack:
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/html.png" alt="html" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/css.png" alt="css" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/vue.png" alt="vue" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/node.png" alt="node" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/lldscc/imageBed/githubImage/20240524/202408201151638.png" alt="nuxt" /></code>
-<code><img height="20" src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nest" /></code>
+#### Tech:
+<code><img height="20" src="https://api.iconify.design/logos:html-5.svg" alt="html" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:css-3.svg" alt="css" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:javascript.svg" alt="javascript" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:typescript-icon-round.svg" alt="typescript" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:vue.svg" alt="vue" /></code>
+<code><img height="18" src="https://api.iconify.design/logos:nuxt-icon.svg" alt="nuxt" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:nodejs-icon-alt.svg" alt="nodejs" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:express.svg" alt="expressjs" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:nestjs.svg" alt="nestjs" /></code>
+<code><img height="20" src="https://img.js.design/assets/webImg/favicon.ico" alt="nestjs" /></code>
+
+
 
 #### Projects:
 Projects：[llds.cc/projects](https://llds.cc/projects) 
