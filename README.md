@@ -1,6 +1,6 @@
 ## Hello👋, I'm [llds](https://www.llds.cc).
 
-Hello, I am a 20-year-old Chinese student, learning web front-end technology, such as: Html, Css, JavaScript, Node.js, Vue.js and so on. Hope to make friendl and kind people and make progress together!
+Hello, I am a 20-year-old student, learning web front-end technology, such as: Html, Css, JavaScript, Node.js, Vue.js and so on. Hope to make friendl and kind people and make progress together!
 
 <img src="https://api.iconify.design/svg-spinners:3-dots-bounce.svg?color=%23737373"/>*「 The wind brings the seeds of stories, and time makes them sprout 」*
 ​<br>
