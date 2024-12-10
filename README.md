@@ -25,7 +25,7 @@ Projects：[llds.cc/projects](https://llds.cc/projects)
 <br>
 <img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/> Personal Site：[llds.cc](https://llds.cc/projects) 
 <br>
-<img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/> miniZZZ：[minizzz.csx.pw](https://minizzz.xyz/)
+<img src="https://api.iconify.design/mdi:link-variant.svg?color=%23737373"/> miniZZZ：[minizzz.xyz](https://minizzz.xyz/)
 
 
 <img src="https://api.iconify.design/svg-spinners:3-dots-bounce.svg?color=%23737373"/>*「 The wind brings the seeds of stories, and time makes them sprout 」*
