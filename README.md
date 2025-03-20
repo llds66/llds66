@@ -20,7 +20,7 @@ Hello, I am a 20-year-old student, learning web front-end technology, such as: H
 <code><img height="20" src="https://api.iconify.design/logos:nestjs.svg" alt="nestjs" /></code>
 <code><img height="20" src="https://img.js.design/assets/webImg/favicon.ico" alt="nestjs" /></code>
 
-#### Person website: [llds.cc](https://llds.cc) 
+#### Person website: [llds.me](https://llds.me) 
 
 ---
 <div style="display:flex;">
