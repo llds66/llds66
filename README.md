@@ -1,4 +1,4 @@
-### Hello👋, I'm [llds](https://www.llds.cloud).
+### Hello👋, I'm [llds](https://llds.cloud).
 
 #### Person website: [llds.cloud](https://llds.cloud) 
 
