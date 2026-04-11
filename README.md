@@ -11,9 +11,7 @@
 <code><img height="18" src="https://api.iconify.design/logos:nuxt-icon.svg" alt="nuxt" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:nodejs-icon-alt.svg" alt="nodejs" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:express.svg" alt="expressjs" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:nestjs.svg" alt="nestjs" /></code>
-<code><img height="20" src="https://img.js.design/assets/webImg/favicon.ico" alt="nestjs" /></code>
-
+<code><img height="20" src="https://api.iconify.design/logos:hono.svg" alt="expressjs" /></code>
 #### Contributions
 
 <picture>
