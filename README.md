@@ -10,7 +10,6 @@
 <code><img height="20" src="https://api.iconify.design/logos:vue.svg" alt="vue" /></code>
 <code><img height="18" src="https://api.iconify.design/logos:nuxt-icon.svg" alt="nuxt" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:nodejs-icon-alt.svg" alt="nodejs" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:express.svg" alt="expressjs" /></code>
 <code><img height="20" src="https://api.iconify.design/logos:hono.svg" alt="expressjs" /></code>
 #### Contributions
 
