@@ -1,6 +1,6 @@
 ### Hello👋, I'm [llds](https://lsang.me).
 
-#### Person website: [llds.cloud](https://lsang.me) 
+#### Person website: [lsang.me](https://lsang.me) 
 
 #### Tech:
 <code><img height="20" src="https://api.iconify.design/logos:html-5.svg" alt="html" /></code>
