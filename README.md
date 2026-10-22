@@ -1,31 +1,7 @@
-### Hello👋, I'm [llds](https://lsang.me).
+[![LLDS](https://ascii.rest/banner/LLDS.svg?color=f97316&font=bold&shadow=none&fill=light&size=s)](https://lldsss.com)
 
-#### Person website: [lsang.me](https://lsang.me) 
+## Hello👋, I'm llds
 
-#### Tech:
-<code><img height="20" src="https://api.iconify.design/logos:html-5.svg" alt="html" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:css-3.svg" alt="css" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:javascript.svg" alt="javascript" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:typescript-icon-round.svg" alt="typescript" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:vue.svg" alt="vue" /></code>
-<code><img height="18" src="https://api.iconify.design/logos:nuxt-icon.svg" alt="nuxt" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:nodejs-icon-alt.svg" alt="nodejs" /></code>
-<code><img height="20" src="https://api.iconify.design/logos:hono.svg" alt="expressjs" /></code>
-#### Contributions
+Person website: [lldsss.com](https://lldsss.com)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/llds66/llds66/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/llds66/llds66/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github-snake"
-    src="https://raw.githubusercontent.com/llds66/llds66/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
+Blog website: [blog.lldsss.com](https://blog.lldsss.com)
